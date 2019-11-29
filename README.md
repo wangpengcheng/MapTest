@@ -1,2 +1,2 @@
 # MapTest
-This project is a Andorid APP with long and map show with gaode map sdk
+This project is a Andorid APP with login and map show with gaode map sdk
