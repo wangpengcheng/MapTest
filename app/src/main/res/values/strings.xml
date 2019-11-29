@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_login_username">帐号</string>
+    <string name="login_username_hint">帐户名/Email/手机号</string>
+    <string name="text_login_password">密码</string>
+    <string name="button_login">登录</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="login_success">登录成功,欢迎使用</string>
+    <string name="button_register">注册</string>
+    <string name="title_activity_login">登录</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">邮箱</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录或注册</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_email">邮箱地址无效</string>
+    <string name="error_invalid_password">密码太短</string>
+    <string name="error_incorrect_password">密码错误</string>
+    <string name="error_field_required">此字段是必须的</string>
+    <string name="permission_rationale">"提供电子邮件完成需要联系人权限"
+    </string>
+    <string name="title_activity_login2">登录</string>
+    <string name="gpsfollow">追随</string>
+    <string name="gpslocate">定位</string>
+    <string name="gpsrotate">旋转</string>
+</resources>
